@@ -1,5 +1,3 @@
-# RealTime-Bank-Dashboard
-A real-time dashboard using Kafka, SQLite, and Streamlit
 # 🏦 Real-Time Bank Transactions Dashboard
 
 A real-time dashboard to monitor bank transactions using Apache Kafka, SQLite, and Streamlit.
